@@ -4,3 +4,10 @@ This is not open source, but if you would like to contribute please contact me.
 
 For more information go to
 https://sites.google.com/view/tcalc
+
+# Release notes
+## Release 1.0.1
+* Bug fix for zero-tenths issue
+
+## Release 1.0.0
+Initial release
