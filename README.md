@@ -6,6 +6,8 @@ For more information go to
 https://sites.google.com/view/tcalc
 
 # Release notes
+## Release 1.0.2
+* Make the buttons coloured
 ## Release 1.0.1
 * Bug fix for zero-tenths issue
 
