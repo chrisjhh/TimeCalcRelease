@@ -10,10 +10,9 @@ https://sites.google.com/view/tcalc
 * Make precedence of INTO operation the same as addition
 ## Release 1.0.3 16/10/20
 * Fix corruption of buttons when window is dragged off screen
-## Release 1.0.2
+## Release 1.0.2 15/10/20
 * Make the buttons coloured
-## Release 1.0.1
+## Release 1.0.1 11/10/20
 * Bug fix for zero-tenths issue
-
-## Release 1.0.0
+## Release 1.0.0 01/10/20
 Initial release
