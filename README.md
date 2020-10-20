@@ -6,6 +6,8 @@ For more information go to
 https://sites.google.com/view/tcalc
 
 # Release notes
+## Release 1.1.0 20/10/20
+* Make precedence of INTO operation the same as addition
 ## Release 1.0.3 16/10/20
 * Fix corruption of buttons when window is dragged off screen
 ## Release 1.0.2
