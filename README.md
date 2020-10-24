@@ -6,6 +6,8 @@ For more information go to
 https://sites.google.com/view/tcalc
 
 # Release notes
+## Release 1.1.1 24/10/20
+* Correct loss of precision in the conversion of input values
 ## Release 1.1.0 20/10/20
 * Make precedence of INTO operation the same as addition
 ## Release 1.0.3 16/10/20
