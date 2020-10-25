@@ -6,6 +6,8 @@ For more information go to
 https://sites.google.com/view/tcalc
 
 # Release notes
+## Release 1.1.2 25/10/20
+* Fix crash from display of large time value with decimal places
 ## Release 1.1.1 24/10/20
 * Correct loss of precision in the conversion of input values
 ## Release 1.1.0 20/10/20
